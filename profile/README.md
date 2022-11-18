@@ -25,6 +25,7 @@ You can use your personal wallet fitting this description or you can use this:
 - [Moralis](https://moralis.io/)
 - [Lens](https://lens.xyz/)
 - [Polygon](https://polygon.technology/)
+- [ChainLink VRF](https://chain.link/vrf)
 
 ## To do
 - [x] Pre alpha MVP
