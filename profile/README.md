@@ -45,9 +45,6 @@ You can use your personal wallet fitting this description or you can use this:
 - [Mikhail](https://t.me/mikbolshakov) — Smart contract developer
 
 ## Links
-- [Figma Concept](https://www.figma.com/file/XxbraydIwwma43Mru5q51C/NFTin-Hackathon?node-id=7%3A1786)
-- [dApp](https://drive.google.com/file/d/1P1vBJUmBkVy_5f02QFoqv__JBT6JLDx-/view?usp=share_link)
-- [Video](https://drive.google.com/file/d/1qkpnuGUFM9h-49-3D1vepqeFJnMeiLx7/view)
 - [Web-site](https://nftin.app/)
 - [Twitter](https://twitter.com/NFTin_app)
 - [Discord](https://discord.gg/3MyKRJPWjW)
