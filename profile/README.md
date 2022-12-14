@@ -38,10 +38,10 @@ You can use your personal wallet fitting this description or you can use this:
 
 ## Team
 
-- [Navi](https://t.me/NaviCroco) — Founder & Art Director
-- [Slafi](https://t.me/slafiv) — CEO & Co-Founder
+- [Navi](https://t.me/NaviCroco) —  Founder & Art Director
+- [Slafi](https://t.me/slafiv) — PM & co-Founder
 - [Denlay](https://t.me/kolopoloa) — CTO & Co-Founder
-- [Artem](https://t.me/rotaxart) — Solidity developer
+- [Chri](https://twitter.com/DiamondH3857) — Solidity developer
 
 ## Links
 - [Web-site](https://nftin.app/)
