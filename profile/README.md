@@ -37,11 +37,11 @@ You can use your personal wallet fitting this description or you can use this:
 - [ ] Alpha version release
 
 ## Team
-- [Slafi](https://t.me/slafiv) — Founder & PM
-- [Navi](https://t.me/NaviCroco) — Art Director & Co-Founder
+
+- [Navi](https://t.me/NaviCroco) — Founder & Art Director
+- [Slafi](https://t.me/slafiv) — CEO & Co-Founder
 - [Denlay](https://t.me/kolopoloa) — CTO & Co-Founder
 - [Artem](https://t.me/rotaxart) — Solidity developer
-- [Andrew](https://t.me/avbelokopytov) — Senior developer
 - [Mikhail](https://t.me/mikbolshakov) — Smart contract developer
 
 ## Links
