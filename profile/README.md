@@ -42,7 +42,6 @@ You can use your personal wallet fitting this description or you can use this:
 - [Slafi](https://t.me/slafiv) — CEO & Co-Founder
 - [Denlay](https://t.me/kolopoloa) — CTO & Co-Founder
 - [Artem](https://t.me/rotaxart) — Solidity developer
-- [Mikhail](https://t.me/mikbolshakov) — Smart contract developer
 
 ## Links
 - [Web-site](https://nftin.app/)
